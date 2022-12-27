@@ -38,21 +38,21 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 /*============== PAYMENT ==============*/
 global.pdana = '-'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pgopay = '6285608468994'
+global.ppulsa = '6285608468994'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'Botgalau'
+global.nameown = 'Gatau'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['6285608468994', 'Gatau', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By gatau' //Main Watermark
+global.wm2 = 'Galaubet'
+global.wm3 = 'Galaubet | By Galaubet'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.titlebot = `Galaubet | ʙʏ ${global.nameown}`
+global.author = 'Galaubet' 
+global.packname = 'Galaubet'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Agustus 17 2023'
 
 
 /*============== LOGO ==============*/
